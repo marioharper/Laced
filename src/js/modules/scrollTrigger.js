@@ -1,6 +1,6 @@
 (function() {
 
-Materialize.scrollTrigger = function(options, executeOnLoad) {
+Laced.scrollTrigger = function(options, executeOnLoad) {
     'use strict';
 
     //keep track of last scroll pos so we can tell the scroll direction.
